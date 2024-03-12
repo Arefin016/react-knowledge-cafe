@@ -1,50 +1,50 @@
 [
     {
         "id": "12345",
-        "cover": "https://i.ibb.co/wyMzrqM/toy-bricks-table-with-word-my-blog.jpg",
+        "cover": "https://i.postimg.cc/zfyrLq8j/1.jpg",
         "title": "The Art of Cooking: A Culinary Journey",
         "author": "Sarah Johnson",
-        "author_img": "https://i.ibb.co/wyMzrqM/toy-bricks-table-with-word-my-blog.jpg",
+        "author_img": "https://i.postimg.cc/kXqf1w63/boy1.png",
         "posted_date": "March 5, 2024",
         "reading_time": "10 minutes",
         "hashtags": ["#Cooking", "#Food", "#CulinaryArt"]
     },
     {
         "id": "67890",
-        "cover": "https://i.ibb.co/dbkwvrH/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "cover": "https://i.postimg.cc/hGt8WPVK/2.png",
         "title": "Exploring the Wilderness: A Hiker's Guide",
         "author": "David Thompson",
-        "author_img": "https://i.ibb.co/dbkwvrH/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "author_img": "https://i.postimg.cc/660d3K3g/boy2.jpg",
         "posted_date": "February 20, 2024",
         "reading_time": "8 minutes",
         "hashtags": ["#Hiking", "#Nature", "#Adventure"]
     },
     {
         "id": "13579",
-        "cover": "https://i.ibb.co/dbkwvrH/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "cover": "https://i.postimg.cc/ydSZsJxC/3.png",
         "title": "Unraveling Mysteries: The Secrets of Ancient Civilizations",
         "author": "Maria Rodriguez",
-        "author_img": "https://i.ibb.co/dbkwvrH/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "author_img": "https://i.postimg.cc/sgSxMPmx/girl1.jpg",
         "posted_date": "January 15, 2024",
         "reading_time": "12 minutes",
         "hashtags": ["#History", "#Archaeology", "#AncientCivilizations"]
     },
     {
         "id": "24680",
-        "cover": "https://i.ibb.co/dbkwvrH/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "cover": "https://i.postimg.cc/nr4996qd/4.jpg",
         "title": "Mindful Living: Finding Peace in a Busy World",
         "author": "John Smith",
-        "author_img": "https://i.ibb.co/dbkwvrH/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "author_img": "https://i.postimg.cc/HkGs1cmg/girl2.jpg",
         "posted_date": "March 1, 2024",
         "reading_time": "15 minutes",
         "hashtags": ["#Mindfulness", "#Wellness", "#SelfCare"]
     },
     {
         "id": "98765",
-        "cover": "https://i.ibb.co/dbkwvrH/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "cover": "https://i.postimg.cc/zfyrLq8j/1.jpg",
         "title": "The Science of Space: Exploring the Universe",
         "author": "Emily Parker",
-        "author_img": "https://i.ibb.co/dbkwvrH/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "author_img": "https://i.postimg.cc/kXqf1w63/boy1.png",
         "posted_date": "February 10, 2024",
         "reading_time": "20 minutes",
         "hashtags": ["#Space", "#Astronomy", "#Science"]
